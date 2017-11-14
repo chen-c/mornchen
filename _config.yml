@@ -4,7 +4,7 @@
 
 # Site
 title: Morn.Chen - Hello
-subtitle: 木生，望阳，而立
+subtitle: Mron
 description:
 author: chenc
 language:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: hexo-theme-pln
 
 jsonContent:
     meta: false
@@ -81,7 +81,7 @@ jsonContent:
       link: false
       permalink: false
       excerpt: false
-      categories: false
+      categories: true
       tags: true
 
 # Deployment
