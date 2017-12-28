@@ -3,9 +3,9 @@ title: 微信小程序wx.openLocation无效(iOS)
 date: 2017/05/04 06:00:39
 tags: 
 - 微信
-- 开发
-categories: 
 - 踩坑
+categories: 
+- 开发
 ---
 微信小程序 *wx.openLocation* 位置api应该是一个lbs中非常常用的一个api，使用微信内置地图查看位置，经常与wx.getLocation接口一起使用，将用户定位到地图中心点。
 然而会发现有时候在iOS上会失效，到不了指定经纬度，安卓以及开发工具中都正常。
