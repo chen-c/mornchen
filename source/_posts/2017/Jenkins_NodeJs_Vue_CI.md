@@ -7,6 +7,8 @@ tags:
 categories: 
 - 开发
 ---
+![jenkins](https://v.moring.pw/mchen/img/2018/jenkins/jenkins_top.jpg)
+
 项目使用Vue做前端开发，故涉及到使用Jenkins做可持续集成，记录一下其中过程。
 
 <!-- more -->
