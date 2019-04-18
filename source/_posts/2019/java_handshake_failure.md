@@ -1,6 +1,6 @@
 ---
 title: java链接ssl alert received HANDSHAKE_FAILURE的一种解决方式
-date: 2019-04-12 12:32:17
+date: 2019-04-18 13:12:17
 tags: 
 - JAVA
 - SSL
